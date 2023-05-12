@@ -26,12 +26,12 @@ Replace input.txt with the path to your input file.
 
 ## Another Way To Get Start
 
-*You can Install Antlr plugin on intellij
-*clone the project to your PC
-*open the file (Project.g4) in intellij
-*Right Click on goal and select (Test Rule goal) - This will open Antlr Test Window
-*Put the Mini Java Code For Test Code Click [Here](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/QuickSort.java)
-*This Will Generate The Parsing Tree For The Code
+- You can Install Antlr plugin on intellij
+- clone the project to your PC
+- open the file (Project.g4) in intellij
+- Right Click on goal and select (Test Rule goal) - This will open Antlr Test Window
+- Put the Mini Java Code For Test Code Click [Here](https://www.cambridge.org/resources/052182060X/MCIIJ2e/programs/QuickSort.java)
+- This Will Generate The Parsing Tree For The Code
 
 ### Input Format
 The input file should contain a list of integers separated by whitespace. For example:
