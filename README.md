@@ -4,7 +4,9 @@ This repository contains an implementation of the QuickSort algorithm using the 
 # Description
 The QuickSort algorithm is a sorting algorithm that works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then recursively sorted.
 <br />
+<br />
 This implementation uses AntlrV4 to parse a list of integers from a text file, and then sorts the integers using the QuickSort algorithm.
+<br />
 <br />
 This Project Use BNF And You Can Explore it [here](https://www.cambridge.org/resources/052182060X/MCIIJ2e/grammar.htm)
 
@@ -47,7 +49,6 @@ The program will output the sorted list of integers to the console, separated by
 ```
 1 1 2 3 3 4 5 5 5 6 9
 ```
-<br />
 <br />
 <br />
 
